@@ -1,6 +1,6 @@
 ### Hi there, I'm Gourav Dhiman! 👋
 
-🚀 **Founder & CEO of Zero One Creation** | 💻 **Full-Stack Developer (MERN & Flutter)** | ☁️ **DevOps Enthusiast**
+🚀 **Founder of Zero One Creation** | 💻 **Full-Stack Developer (MERN & Flutter)** | ☁️ **DevOps Enthusiast**
 
 ---
 
